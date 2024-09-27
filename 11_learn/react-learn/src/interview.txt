@@ -1,0 +1,11 @@
+• Question: What is JSX in React?
+– Answer: JSX is a syntax extension for JavaScript recommended by React for describing
+what the UI should look like.
+• Question: Can JSX be directly rendered by browsers?
+– Answer: No, browsers can’t understand JSX. It needs to be transpiled to regular JavaScript
+using tools like Babel.
+• Question: Is JSX mandatory in React?
+– Answer: No, JSX is not mandatory, but it’s a widely used and convenient way to write
+React components.
+• Question: How do you render a variable in JSX?
+– Answer: Use curly braces {} to embed variables in JSX, like {myVariable}.
